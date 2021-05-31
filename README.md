@@ -1,3 +1,3 @@
-# Meu Primeiro Projeto JavaWeb
+# Atividade 12 - Tópicos Especiais
 Alunos: Matheus Eduardo Viana & Stephanie Lima Ho
-Atividade 12 - Tópicos
+
